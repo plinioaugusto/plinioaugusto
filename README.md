@@ -6,7 +6,7 @@
 - 💻 I'm passionate about Code, Technology and Business
 - ☕ I'm a coffee addict
 - 💬 Ask me about:
-  - JAVA / Javascript / Node.JS / SQL / non-SQL / HTML/CSS / DER
+  - JAVA / Javascript / TypeScript / Node.JS / SQL / MongoDB / HTML/CSS
   - And what you want, feel free...
 
 📫 Reach me out 👇
