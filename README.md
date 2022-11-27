@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Plínio Augusto
+<h3 align="center">Hi there 👋, I'm Plínio Augusto</h3>
 
 [![GitHub plinioaugusto](https://img.shields.io/github/followers/plinioaugusto?label=follow&style=social)](https://github.com/plinioaugusto)
 
