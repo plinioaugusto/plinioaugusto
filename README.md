@@ -22,6 +22,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plinioaugusto&layout=compact&langs_count=7&theme=tokyonight"/>
 <br><br>
 
+<br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=plinioaugusto&theme=tokyo-night&hide_border=true">
+<br><br>
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,9 +36,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br>
+
 </div>
 
 ##
 
-  
 Made with 💜 by <a href="https://www.facebook.com/plinioaugustoadm/" target="_blank">Plínio Augusto</a>
