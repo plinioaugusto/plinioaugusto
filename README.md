@@ -20,10 +20,11 @@
   <a href="https://github.com/plinioaugusto">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=plinioaugusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plinioaugusto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <br><br>
+  <img height="270em" src="https://activity-graph.herokuapp.com/graph?username=plinioaugusto&theme=tokyo-night&hide_border=false&radius=500">
 <br><br>
 
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=plinioaugusto&theme=tokyo-night&hide_border=true">
 <br><br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
