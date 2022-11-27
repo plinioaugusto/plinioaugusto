@@ -24,7 +24,7 @@
 
 <br>
 
-<h3>Some Technologies</h3>
+<h3>Some technologies of my work</h3>
 <img height="300em" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table height="300em" align="right" >
   <tr>
