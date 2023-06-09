@@ -27,8 +27,8 @@
 <br>
 
 <h3>Some technologies of my work</h3>
-<img height="290em" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table height="290em" align="right" >
+<img height="280em" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<table height="280em" align="right" >
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px"/><br>
