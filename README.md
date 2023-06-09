@@ -21,7 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plinioaugusto&layout=compact&langs_count=7&theme=tokyonight"/>
   
   <br><br>
-  <img height="290em" src="https://github-readme-activity-graph.cyclic.app/graph?username=plinioaugusto&theme=tokyo-night&hide_border=true&radius=500">
+  <img height="290em" src="https://github-readme-activity-graph.vercel.app/graph?username=plinioaugusto&theme=tokyo-night&hide_border=true&radius=500">
 
 
 <br>
