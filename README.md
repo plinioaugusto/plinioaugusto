@@ -23,7 +23,6 @@
   <br><br>
   <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=plinioaugusto&theme=tokyo-night&hide_border=true&radius=500">
 
-
 <br>
 
 <h3>Some technologies of my work</h3>
