@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Plínio Augusto
+# Olá, eu sou Plínio Augusto 👋
 
 ### Tech Lead e Desenvolvedor Back-end focado em pessoas, produto e sistemas escaláveis
 
@@ -12,32 +12,32 @@ Atuo como Tech Lead conectando pessoas, produto e tecnologia para transformar re
 
 </div>
 
-## Atuação como Tech Lead
+## 🚀 Atuação como Tech Lead
 
-- Lidero iniciativas técnicas alinhando arquitetura, prioridades de negócio e evolução do produto
-- Apoio o time com planejamento de sprints, delegação de tarefas, acompanhamento técnico e desenvolvimento contínuo
-- Facilito comunicação entre pessoas técnicas e não técnicas, traduzindo complexidade em decisões claras
-- Promovo colaboração por meio de revisão de código, programação em par, documentação e troca de conhecimento
-- Contribuo para padrões internos de arquitetura, codificação e comunicação entre serviços
+- 🎯 Lidero iniciativas técnicas alinhando arquitetura, prioridades de negócio e evolução do produto
+- 🤝 Apoio o time com planejamento de sprints, delegação de tarefas, acompanhamento técnico e desenvolvimento contínuo
+- 💬 Facilito comunicação entre pessoas técnicas e não técnicas, traduzindo complexidade em decisões claras
+- 🧠 Promovo colaboração por meio de revisão de código, programação em par, documentação e troca de conhecimento
+- 🧩 Contribuo para padrões internos de arquitetura, codificação e comunicação entre serviços
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-- Desenvolvedor de software na [Quero Delivery](https://querodelivery.com/)
-- Pós-graduando em Arquitetura de Software
-- Desenvolvedor com foco em back-end, atuando com Node.js, TypeScript, JavaScript e Java
-- Experiência com APIs, microsserviços, monólitos, mensageria, cache e monitoramento em produção
-- Interesse em arquitetura de software, sistemas distribuídos, visão de produto e impacto no negócio
-- Gosto de transformar requisitos complexos em soluções simples, escaláveis e fáceis de manter
+- 💼 Desenvolvedor de software na [Quero Delivery](https://querodelivery.com/)
+- 🎓 Pós-graduando em Arquitetura de Software
+- ⚙️ Desenvolvedor com foco em back-end, atuando com Node.js, TypeScript, JavaScript e Java
+- 📡 Experiência com APIs, microsserviços, monólitos, mensageria, cache e monitoramento em produção
+- 🏗️ Interesse em arquitetura de software, sistemas distribuídos, visão de produto e impacto no negócio
+- ✨ Gosto de transformar requisitos complexos em soluções simples, escaláveis e fáceis de manter
 
-## O que eu faço
+## 🛠️ O que eu faço
 
-- Defino arquitetura de serviços, fluxos de comunicação e padrões técnicos para sistemas distribuídos
-- Crio e mantenho serviços back-end, APIs e integrações com foco em escalabilidade e confiabilidade
-- Implemento mensageria assíncrona com Kafka, estratégias de cache com Redis e consultas eficientes
-- Melhoro a qualidade do código com testes automatizados, revisão de código e documentação clara
-- Monitoro sistemas em produção, investigo problemas e atuo de forma proativa para manter os serviços estáveis
+- 🏛️ Defino arquitetura de serviços, fluxos de comunicação e padrões técnicos para sistemas distribuídos
+- 🔌 Crio e mantenho serviços back-end, APIs e integrações com foco em escalabilidade e confiabilidade
+- ⚡ Implemento mensageria assíncrona com Kafka, estratégias de cache com Redis e consultas eficientes
+- ✅ Melhoro a qualidade do código com testes automatizados, revisão de código e documentação clara
+- 📈 Monitoro sistemas em produção, investigo problemas e atuo de forma proativa para manter os serviços estáveis
 
-## Momentos de trabalho
+## 📸 Momentos de trabalho
 
 <div align="center">
   <table>
