@@ -77,9 +77,10 @@ Atuo como Tech Lead conectando pessoas, produto e tecnologia para transformar re
 
 ## Reconhecimentos
 
-- **2022 - Guardiões da Cultura:** reconhecimento por fortalecer valores e cultura organizacional
-- **2023 - Melhores do Ano - Back-end:** destaque por excelência técnica e impacto nas soluções desenvolvidas
-- **PDI - Sou melhor a cada dia:** compromisso com evolução contínua, aprendizado e desenvolvimento profissional
+- **2024 - Prêmio Destaque Tecnologia:** reconhecimento por metas atingidas, empenho em objetivos estratégicos e entrega de resultados consistentes
+- **2023 - Melhor Desenvolvedor Back-end:** destaque por excelência técnica e impacto positivo no desenvolvimento de soluções
+- **2022 - Guardião da Cultura:** reconhecimento pela preservação e fortalecimento dos valores e da cultura organizacional
+- Sigo em busca de novos desafios, evolução contínua e conquistas ainda maiores
 
 ## Tecnologias e ferramentas
 
