@@ -31,8 +31,8 @@ I build backend systems that turn complex business requirements into reliable se
 
 ## What I work with
 
-| Backend | Architecture | Data & Messaging | Quality & Delivery |
-| --- | --- | --- | --- |
+| Backend                                                   | Architecture                                                               | Data & Messaging                         | Quality & Delivery                                          |
+| --------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------- |
 | Node.js, TypeScript, JavaScript, Java, Express, REST APIs | Hexagonal Architecture, DDD, monoliths, microservices, distributed systems | MongoDB, PostgreSQL, MySQL, Redis, Kafka | Jest, Mocha, Chai, Docker, Git, GitHub, Jira, Kanban, Agile |
 
 <div align="center">
